@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'coursera',
         'USER': 'root',
-        'PASSWORD': 'Asjad.Core#8330', # insecure, but good enough for this projects :)
+        'PASSWORD': 'password#83301', 
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
